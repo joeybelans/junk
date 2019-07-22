@@ -1,0 +1,3 @@
+Social Security Number	Name	Date of Birth
+303-25-4816	John Snow	1990-05-25
+940-91-4921	Archie Bunker	1980-09-01
